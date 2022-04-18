@@ -1,0 +1,14 @@
+## vscode settings
+.vscode
+
+## executable shit
+webserv
+webserv.dSYM
+
+#docker
+docker
+webserv.dSYM/
+
+
+# lol
+.DS_Store
